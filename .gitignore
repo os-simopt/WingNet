@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+logs/
+splits/
+*.db
+*.db-journal
+confusion_matrix*.png
+wingnet/weights/pretrained.pt
+wingnet/weights/model_trace.pt
+wingnet/weights/model_accuracy.pt
